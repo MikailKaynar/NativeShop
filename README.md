@@ -1,7 +1,6 @@
 
 
-
-
+<img src="https://github.com/MikailKaynar/NativeShop/blob/master/thumbnail/thumbnail.png" width="300">
 
 
 ```bash
